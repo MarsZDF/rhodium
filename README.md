@@ -2,6 +2,7 @@
 
 Circular arithmetic for geographic coordinates — bearings, longitudes, latitudes, and bounding boxes.
 
+[![PyPI version](https://badge.fury.io/py/elemental-rhodium.svg)](https://badge.fury.io/py/elemental-rhodium)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marszdf/rhodium/blob/main/rhodium_demo.ipynb)
 
 ## The Problem
@@ -36,7 +37,7 @@ bbox.crosses_antimeridian(box)  # → True
 ## Installation
 
 ```bash
-pip install rhodium
+pip install elemental-rhodium
 ```
 
 **Zero dependencies** — uses only the Python standard library.
