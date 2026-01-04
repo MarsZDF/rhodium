@@ -4,6 +4,7 @@ Circular arithmetic for geographic coordinates — bearings, longitudes, latitud
 
 [![PyPI version](https://img.shields.io/pypi/v/elemental-rhodium.svg)](https://pypi.org/project/elemental-rhodium/)
 [![Python versions](https://img.shields.io/pypi/pyversions/elemental-rhodium.svg)](https://pypi.org/project/elemental-rhodium/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marszdf/rhodium/blob/main/rhodium_demo.ipynb)
 
 ## The Problem
